@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<nom>Filtre tronquer</nom>
+	<version>1.0</version>
+	<prefix>filtretronquer</prefix>
+	<type>classique</type>
+	<auteur>Benoit Asselin - contact@ab-d.fr</auteur>
+	<thelia>1.5.3.4</thelia>
+	<description>Ce plugin permet de couper a X caracteres une chaine texte ou une chaine html.</description>
+	<rubrique>divers</rubrique>
+	<lien></lien>
+	<documentation>Readme.md</documentation>
+	<etat>production</etat>
+	<install>http://www.ab-d.fr</install>
+</plugin>

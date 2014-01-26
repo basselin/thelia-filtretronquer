@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Migration automatique depuis le plugin.xml original, sauvegardé dans plugin.xml.save-->
+<plugin>
+  <descriptif lang="fr">
+    <titre>Filtre tronquer</titre>
+    <chapo>Ce plugin permet de couper a X caracteres une chaine texte ou une chaine html.</chapo>
+    <description></description>
+    <postscriptum></postscriptum>
+  </descriptif>
+  <version>1.0</version>
+  <auteur>
+    <nom>Benoit Asselin - contact@ab-d.fr</nom>
+    <societe></societe>
+    <email></email>
+    <web></web>
+  </auteur>
+  <type>classique</type>
+  <prerequis/>
+  <thelia>1.5.3.4</thelia>
+  <etat>production</etat>
+  <documentation>Readme.md</documentation>
+  <urlmiseajour></urlmiseajour>
+</plugin>
