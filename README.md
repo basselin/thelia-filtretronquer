@@ -5,10 +5,10 @@ Ce plugin permet de couper a X caracteres une chaine texte ou html.
 
 
 **Exemples d'utilisation**
-```
+```html
 #FILTRE_tronquer_mot(#RUBRIQUE_DESCRIPTION||200)
 ```
-```
+```html
 #FILTRE_tronquer_exact(#RUBRIQUE_DESCRIPTION||200)
 ```
 
