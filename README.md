@@ -1,7 +1,7 @@
 filtretronquer pour Thelia 1.5
 ==============================
 
-Ce plugin permet de couper a X caracteres une chaine texte ou html.
+Ce plugin permet de couper à X caractères une chaine texte ou html.
 
 
 **Exemples d'utilisation**
